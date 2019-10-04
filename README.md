@@ -9,8 +9,8 @@ In this example repo it looks as though the preferences simply does not load, it
 
 ## Expected failure but gets loading message
 
-[![loading message](expected_exception.png)]
+![loading message](expected_exception.png)
 
 ## How the app looks
 
-[![app example when running](app_example.gif)]
+![app example when running](app_example.gif)
